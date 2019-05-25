@@ -20,7 +20,7 @@ YES, indeed it is powered by `Node.js v6` on `Raspberry PI 3`.
 
 
 
-## 2. Reuqirements
+## 2. Requirements
 ### 2.1 Equipment
 * [**Raspberry PI 3 Model B**](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) with the latest **Raspbian OS** installed
 * **Node.js v6.0**
