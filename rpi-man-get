@@ -9,6 +9,8 @@ install()
 {
     echo "Installing rpi-man..."
     install_dependencies
+    echo "Generating .env file"
+    node create_env.js
     echo "Make rpi-man-server as global command..."
     ln -s $path/bin/rpi-man-server $bin_path
     echo "Make rpi-man-server run at startup..."
